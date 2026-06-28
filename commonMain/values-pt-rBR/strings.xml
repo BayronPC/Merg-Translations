@@ -3,7 +3,7 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">Um Jogador</string>
-    <string name="lan_multiplayer">Multijogador Via LAN</string>
+    <string name="lan_multjiplayer">Multijogador Via LAN</string>
     <string name="lan">LAN</string>
     <string name="online_multiplayer">Multijogador Online</string>
     <string name="options">Opções</string>
